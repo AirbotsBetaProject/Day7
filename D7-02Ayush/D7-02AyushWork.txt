@@ -1,0 +1,7 @@
+1. Learned about working of deep learning convolutional neural networks.
+2. Read a research paper - Multimodal Emotion Detection using emoFBVP dataset. Currently unable to download dataset from site https://emofbvp.org
+3. The research paper has indicated better accuracy for CK+ database.
+4. Wrote a code based on deep learning cnn for emotion recognition, inspired from program for lenet-mnist deep cnn.
+5. Run the code for 25 epochs initially. Accuracy - 72.81%
+6. train_accuracy.txt shows training accuracy after every epoch for 25 epochs. test_accuracy.txt shows testing accuracy after every 5 epochs for 25 epochs.
+7. To-Do : Get better accuracy by training for higher number of epochs.
